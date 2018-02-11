@@ -15,8 +15,11 @@ The Report File contains:
 
 I used MATLAB for extracting Gait Parameters and R for classification.
 Then Used Decsion Tree Model For REAL TIME WALKING STYLE DETECTION.
+##Note:
+The Code and data not provided as a part of IEEE policy. 
 
 
-The Paper Has Been Published in IEEE XPLORE.
+
+The Paper Has Been Published in IEEE XPLORE in JAN 2018.
 Anyone intrested can acess it here:
 # http://ieeexplore.ieee.org/document/8126149/?reload=true
